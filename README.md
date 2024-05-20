@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @restucode
 - 👀 I’m interested in Content Writing and Programming
-- 🌱 I’m currently learning MERN Stack and SEO
-- 💞️ I’m looking to collaborate on i dunno
+- 🌱 I’m currently learning MERN Stack and SEO, also interesting in blockhain and cryptocurrency
 - 📫 How to reach me: Facebook "Restu Kersana" or Instagram "restu_kersana"
-- LFG
+- Let's go
 
 <!---
 restucode/restucode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
