@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @restucode
 - 👀 I’m interested in Content Writing and Programming
-- 🌱 I’m currently learning MERN Stack and SEO, also interesting in blockhain and cryptocurrency
+- 🌱 I’m currently learning MERN Stack and SEO, also interesting in blockchain and cryptocurrency
 - 📫 How to reach me: Facebook "Restu Kersana" or Instagram "restu_kersana"
 - Let's go
 
